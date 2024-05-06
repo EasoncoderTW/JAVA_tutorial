@@ -1,4 +1,4 @@
-# JAVA Lesso 1
+# JAVA Lesson 1
 1. 下載JAVA SDK (JDK)
     - [JDK 17.0.7](https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.exe)
 2. Vscode 安裝套件
