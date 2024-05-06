@@ -16,9 +16,12 @@ public class Practice1 {
         // int <- int + float
         // int x = 10 + 2.3f;
         // int <- float + float
-
+        // int x = 15.3f + 12.3f;
         // float <- int + float
-
+        float x = 15 + 12.3f;
+        System.out.println(x);
         // float <- float + float
+        float y = 15.3f + 12.3f;
+        System.out.println(y);
     }
 }
